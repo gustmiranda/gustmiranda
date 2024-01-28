@@ -1,4 +1,4 @@
-Hi 👋 my name is Gustavo
+Hi 👋 everyone!
 ===============================================================================================================================
 
 I´m now working with Asset Allocation at a pension fund and I'm also BSc Economics Student at Universidade Federal Fluminense. Interested in programming, statistical methods, macroeconomics, econometrics, quantitative finance, portfolio optimization and asset allocation.
