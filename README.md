@@ -1,7 +1,7 @@
 Hi 👋 my name is Gustavo
 ===============================================================================================================================
 
-I´m Asset Allocation Assistent at pension fund and Economics Student at UFF. Interested in programming, statistical methods, macroeconomics, econometrics, quantitative finance, portfolio optimization and asset allocation.
+Now I'm working with Asset Allocation at a pension fund and also I'm Grad Economics Student at UFF. Interested in programming, statistical methods, macroeconomics, econometrics, quantitative finance, portfolio optimization and asset allocation.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [gumiranda95@gmail.com](mailto:gumiranda95@gmail.com)
