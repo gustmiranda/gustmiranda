@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gustavo
+Hi 👋 My name is Gustavo
 ===============================================================================================================================
 
 I´m Asset Allocation Assistent at pension fund and Economics Student at UFF. Interested in programming, statistical methods, macroeconomics, econometrics, quantitative finance, portfolio optimization and asset allocation.
